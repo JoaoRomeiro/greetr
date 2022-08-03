@@ -1,0 +1,19 @@
+{
+    "name": "simplexi/greetr",
+    "description": "Greetr - A simple Laravel package",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Romeiro",
+            "email": "j.romeiro@live.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
